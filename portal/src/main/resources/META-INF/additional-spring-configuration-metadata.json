@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.secret.key",
+    "type": "java.lang.String",
+    "description": "A description for 'app.secret.key'"
+  },
+  {
+    "name": "jobs.cron",
+    "type": "java.lang.String",
+    "description": "A description for 'jobs.registrationUpdate.cronExpression'"
+  },
+  {
+    "name": "tuition.price-per-credit",
+    "type": "java.math.BigDecimal",
+    "description": "The price per credit used for calculating tuition fees. This value is used to determine the total tuition amount based on the number of credits a student registers for in a semester."
+  }
+]}
