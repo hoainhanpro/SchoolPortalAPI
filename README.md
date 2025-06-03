@@ -162,7 +162,3 @@ mvn test
 - ThongBao (Thông báo)
 - PhongHoc (Phòng học)
 - Lich (Lịch học)
-
-## 📝 License
-
-Copyright © 2024 ptithcm
