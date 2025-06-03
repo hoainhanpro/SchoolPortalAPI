@@ -80,7 +80,7 @@ SchoolPortalAPI
 
 1. Clone repository về máy:
 ```
-git clone https://github.com/yourusername/SchoolPortalAPI.git
+git clone https://github.com/hoainhanpro/SchoolPortalAPI.git
 cd SchoolPortalAPI
 ```
 
